@@ -1,0 +1,2 @@
+# bharatinterncode
+Netflix Home Page
