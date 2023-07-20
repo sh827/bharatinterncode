@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.logo-image {
+    height: 70px;
+    width: 120px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.main-heading {
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.heading {
+    font-family: "roboto";
+    color: #ffffff;
+    font-size: 15px;
+    text-align: center;
+}
+
+.getstarted-button {
+    font-family: "roboto";
+    font-size: 20px;
+    height: 50px;
+    width: 220px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+}
+
+.netflix-page-bg-container {
+    background-image: linear-gradient(to right, black, red);
+    background-size: cover;
+    height: 100vh;
+    margin-top: 10px;
+    background-color: transparent;
+}
+
+.netflix-heading {
+    color: #ffffff;
+    font-family: "roboto";
+    font-size: 30px;
+    padding-top: 20px;
+}
+
+.netflix-mail {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 5px;
+}
+
+.button-signin {
+    font-family: "roboto";
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 8px;
+}
+
+.netflix-password {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #ffffff;
+    padding-top: 5px;
+}
+
+.box {
+    width: 200px;
+    text-align: center;
+}
+
+.next-button {
+    font-family: "roboto";
+    font-size: 20px;
+    color: #ffffff;
+    width: 100px;
+    background-color: #000;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-left: 5px;
+}
+
+.text-column {
+    background-color: #A52A2A;
+    background-size: cover;
+    width: 100vw;
+}
+
+.text-column-heading {
+    font-family: "roboto";
+    font-size: 30px;
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+    padding-top: 10px;
+}
+
+.text-column-paragrah {
+    font-family: "roboto";
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.image-of-N {
+    height: 100vh;
+    width: 100vw;
+}
+
+.text-column-cartoon {
+    background-color: lightblue;
+    background-size: cover;
+    width: 100vw;
+}
+
+.text-column-bg {
+    background-color: #ffffff;
+    background-size: cover;
+}
+
+.text-column-heading-features {
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    color: #000;
+    padding-top: 10px;
+}
+
+.text-column-paragrah-features {
+    font-family: "serif";
+    font-size: 18px;
+    text-align: center;
+    color: #000;
+    font-weight: bold;
+}
+
+.questions-page {
+    background-color: black;
+    background-size: cover;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.questions-heading {
+    font-family: "roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.btn {
+    font-family: "roboto";
+    font-size: 15px;
+    color: #ffffff;
+    text-align: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+.ending-page {
+    background-color: #000;
+    background-size: cover;
+    margin-top: 5px;
+}
+
+.heading {
+    font-family: "roboto";
+    font-size: 10px;
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+    padding: 10px;
+}
+
+.button-white {
+    font-family: "roboto";
+    font-size: 15px;
+    color: #000;
+    width: 200px;
+    background-color: #ffffff;
+    border-width: 1px;
+    margin-left: 5px;
+}
+
+.ending-button {
+    font-family: "roboto";
+    font-size: 18px;
+    color: #ffffff;
+    background-color: red;
+    border-width: 1px;
+}
+
+.help-paragraph {
+    font-family: "roboto";
+    font-size: 10px;
+    color: #B2BEB5;
+    padding: 8px;
+}
+
+.paragraph {
+    font-family: "roboto";
+    font-size: 10px;
+    color: #B2BEB5;
+    padding: 8px;
+}
+
+.trans-button {
+    font-family: "roboto";
+    font-size: 10px;
+    color: #B2BEB5;
+    padding: 5px;
+    text-align: left;
+    background-color: #000;
+    width: 100px;
+    border-color: #ffffff;
+    border-width: 2px;
+}
